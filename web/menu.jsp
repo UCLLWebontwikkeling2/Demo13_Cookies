@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Tourism</title>
-    <link rel="stylesheet" href="../css/sample.css">
+    <link rel="stylesheet" href="css/sample.css">
 </head>
 <body>
 <header>
